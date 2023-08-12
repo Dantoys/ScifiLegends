@@ -1,4 +1,4 @@
-#ScifiLegends
+#ScifiLegends (This Plugin Replaces the previous named plugin SiFiLegends)
 
 Endless Sky Plugin to add famous Scifi ships to game.
 
