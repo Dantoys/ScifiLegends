@@ -1,10 +1,17 @@
-# plugin-template
-This repository serves as a basic template to be used when creating a plugin for the game Endless Sky. Fork it and start modding!
+#ScifiLegends
 
-[Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
+Endless Sky Plugin to add famous Scifi ships to game.
 
+I enjoyed many of these ships in their respected media. So I have created them to have fun with in Endless Sky. This is Provided Free and is for Entertainment Purposes. Please Respect the original owners, and only use this for personal entertainment.
 
-## Things to do after forking:
-1. Clone your repo locally. You'll want to clone / symlink your repo within the `"plugins"` directory in your "user" directory (which is where Endless Sky writes your pilot savegames). This ensures you can update your local version of Endless Sky without worrying about losing any uncommitted & unpushed data.
-2. Flesh out your content! You can learn about all the different bits of game data in the [Endless Sky wiki](https://github.com/endless-sky/endless-sky/wiki/CreatingPlugins)
-3. [Submit your plugin for distribution](https://github.com/EndlessSkyCommunity/endless-sky-plugins) (to be updated)
+Once downloaded, place the folder "ScifiLegends" into the Endless Sky Plugin Folder.
+
+For each operating systems, there are two places where you can install plugins:
+
+Linux /usr/share/endless-sky/plugins/ ~/.local/share/endless-sky/plugins/
+
+Windows plugins\ (in the same folder as the Endless Sky executable) C:\Users\yourusername\AppData\Roaming\endless-sky\plugins\
+
+Mac OS X Content/Resources/plugins/ (within the application bundle) ~/Library/ApplicationSupport/endless-sky/plugins
+
+Launch the Game, and Enjoy !!

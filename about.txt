@@ -1,2 +1,4 @@
-Enter some text that describes your plugin in this file.
-Endless Sky will then display it when the user has your plugin installed and selected.
+About ScifiLegends
+Packaged by Dantoys
+
+I enjoyed many of these ships in their respected media. So I have created them to have fun with in Endless Sky. This is Provided Free and is for Entertainment Purposes. Please Respect the original owners, and only use this for personal entertainment.
